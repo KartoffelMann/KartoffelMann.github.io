@@ -1,4 +1,4 @@
 # KartoffelMann's Page
 
-# WELCOME!
+## WELCOME!
 
